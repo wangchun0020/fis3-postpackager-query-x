@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/output
+.DS_Store
+/.idea
+.idea
+**/META-INF
+gitlab-token.js
+node_modules
+.iml

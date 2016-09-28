@@ -1,0 +1,23 @@
+{
+  "name": "fis3-postpackager-query-x",
+  "version": "0.0.1",
+  "description": "fis3 postpackager，给文件添加自定义query，默认是md5,根据fis3-postpackager-query修改而来",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangchun0020/fis3-postpackager-query-x.git"
+  },
+  "keywords": [
+    "fis",
+    "fis3",
+    "query",
+    "md5",
+    "postpackager"
+  ],
+  "author": "wangchun0020",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangchun0020/fis3-postpackager-query-x/issues"
+  },
+  "homepage": "https://github.com/wangchun0020/fis3-postpackager-query-x"
+}
