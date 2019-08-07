@@ -15,7 +15,7 @@
     "postpackager"
   ],
   "author": "wangchun0020",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wangchun0020/fis3-postpackager-query-x/issues"
   },
